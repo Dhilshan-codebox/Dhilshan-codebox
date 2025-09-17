@@ -1,21 +1,11 @@
-# <img src="./gif/hi.gif" width="29" style="vertical-align: middle; margin-right: 6px;"> Hi, I'm Dhilshan 
+# <img src="./gif/hi.gif" width="29" style="vertical-align: middle; margin-right: 6px;"> Hi, I'm Dhilshan  
 💻 Student Developer  
 🌱 Learning new tech every day and building cool stuff along the way  
-🌍 Passionate about coding, games, and creative projects!
-<!--<div style="border: 1px solid #ccc; border-collapse: collapse; border-radius: 6px; overflow: hidden; width: fit-content;">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Divya-Darshan&show_icons=true&bg_color=00000000&theme=dark" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Divya-Darshan&show_icons=true&bg_color=00000000&theme=default" 
-      media="(prefers-color-scheme: light)" />
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Divya-Darshan&show_icons=true&bg_color=00000000" 
-      alt="My GitHub Stats" />
-  </picture>
-</div>]-->
-# 💡 Skills, 🔨 Tools <img src="./gif/catcode.gif" width="60"> 
+🌍 Passionate about coding, games, and creative projects!  
+
+---
+
+## 💡 Skills & 🔨 Tools <img src="./gif/catcode.gif" width="60">  
 
 <table>
   <tr>
@@ -41,21 +31,36 @@
     <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/GitLab-FFFFFF?style=flat&logo=gitlab&logoColor=orange"/></td>
     <td><img src="https://img.shields.io/badge/Terminal-000000?style=flat&logo=gnu-bash&logoColor=white"/></td>
-
   </tr>
-    <tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white"/></td>
   </tr> 
-</table> 
+</table>  
 
+---
 
+## 📊 GitHub Stats  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhilshan-codebox&show_icons=true&theme=transparent)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhilshan-codebox&theme=dark&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilshan-codebox&layout=compact&theme=transparent)  
 
+---
+
+## 🚀 Featured Projects  
+
+- 🎮 [My Game Project](https://github.com/dhilshan/my-game) – Built in **Godot**  
+- ⚡ [AI Health Predictor](https://github.com/Dhilshan-codebox/health-ai) – **Streamlit + ML**  
+- 📦 [Cloud Cost Dashboard](https://github.com/Dhilshan-codebox/cloud-dashboard) – **Multi-Cloud Optimization**  
 
 ---
 
 🤗 Always up for collaboration and learning something new.  
-🎓 Let's build something awesome and new together!
+🎓 Let's build something awesome and new together!  
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Dhilshan-codebox&color=blue&style=flat)  
+
+> *"Code. Create. Conquer. 🚀"*  
