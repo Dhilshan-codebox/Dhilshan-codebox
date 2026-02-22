@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Machine+Learning+%7C+Data+Science;Algorithmic+Thinking+%26+Optimization;Research-Oriented+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Software+Developer+%7C+Backend+Developer;Algorithmic+Thinking+%26+Optimization;Research-Oriented+Problem+Solver" />
 </p>
 
 <p align="center">
