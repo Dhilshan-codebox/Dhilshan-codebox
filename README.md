@@ -9,48 +9,67 @@
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></td>
-    <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
+    <td><b>📐 Mathematical Foundations</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Linear%20Algebra-2F4F4F?style=flat"/>
+      <img src="https://img.shields.io/badge/Probability-556B2F?style=flat"/>
+      <img src="https://img.shields.io/badge/Statistics-2E8B57?style=flat"/>
+      <img src="https://img.shields.io/badge/Optimization-6A5ACD?style=flat"/>
+    </td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Data%20Structures-00599C?style=flat"/></td>
-    <td><img src="https://img.shields.io/badge/Algorithms-8A2BE2?style=flat"/></td>
-    <td><img src="https://img.shields.io/badge/Optimization%20Basics-6A5ACD?style=flat"/></td>
-    <td><img src="https://img.shields.io/badge/Probability%20&%20Statistics-2E8B57?style=flat"/></td>
+    <td><b>🧠 Algorithmic Foundations</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Data%20Structures-003366?style=flat"/>
+      <img src="https://img.shields.io/badge/Algorithms-4B0082?style=flat"/>
+      <img src="https://img.shields.io/badge/Complexity%20Analysis-483D8B?style=flat"/>
+      <img src="https://img.shields.io/badge/Algorithmic%20Thinking-191970?style=flat"/>
+    </td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat"/></td>
+    <td><b>📊 Data Science & Empirical Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-006400?style=flat"/>
+      <img src="https://img.shields.io/badge/Feature%20Engineering-4682B4?style=flat"/>
+      <img src="https://img.shields.io/badge/Statistical%20Modeling-3CB371?style=flat"/>
+      <img src="https://img.shields.io/badge/Data%20Visualization-20B2AA?style=flat"/>
+    </td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Neural%20Networks-FF1493?style=flat"/></td>
-    <td><img src="https://img.shields.io/badge/Feature%20Engineering-4682B4?style=flat"/></td>
-    <td><img src="https://img.shields.io/badge/Model%20Evaluation-708090?style=flat"/></td>
-    <td><img src="https://img.shields.io/badge/Bias--Variance%20Tradeoff-556B2F?style=flat"/></td>
+    <td><b>🤖 Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Supervised%20Learning-FF8C00?style=flat"/>
+      <img src="https://img.shields.io/badge/Neural%20Networks-DC143C?style=flat"/>
+      <img src="https://img.shields.io/badge/XGBoost-B22222?style=flat"/>
+      <img src="https://img.shields.io/badge/Model%20Evaluation-708090?style=flat"/>
+      <img src="https://img.shields.io/badge/Bias--Variance%20Tradeoff-556B2F?style=flat"/>
+    </td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></td>
+    <td><b>💻 Programming & Systems</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+    </td>
   </tr>
 
   <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/CI/CD%20Concepts-0A66C2?style=flat"/></td>
-    <td><img src="https://img.shields.io/badge/Data%20Visualization-20B2AA?style=flat"/></td>
+    <td><b>🧪 Research Workflow</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Experimental%20Design-2F4F4F?style=flat"/>
+      <img src="https://img.shields.io/badge/Hypothesis%20Testing-556B2F?style=flat"/>
+      <img src="https://img.shields.io/badge/Performance%20Benchmarking-8B4513?style=flat"/>
+      <img src="https://img.shields.io/badge/Result%20Interpretation-696969?style=flat"/>
+    </td>
   </tr>
 </table>
-
 ---
 
 ## 📊 GitHub Stats  
