@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend Developer+Statistical+Modeling;Algorithmic+Thinking+%7C+Optimization;ML-Models+%7C+Model+Evaluation;Research-Oriented+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend Developer+Statistical+Modeling;Algorithmic+Thinking+%7C+Optimization;ML+Models+%7C+Model+Evaluation;Research-Oriented+Problem+Solver" />
 </p>
 
 <p align="center">
