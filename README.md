@@ -129,18 +129,19 @@
 
 ---
 
-## 🏆 GitHub Achievements  
+## 🧠 Coding Metrics  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dhilshan-codebox&theme=flat&no-frame=true&margin-w=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhilshan-codebox&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhilshan-codebox&theme=github"/>
 </p>
 
 ---
 
-## 📌 Profile Summary  
+## 📌 Development Overview  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhilshan-codebox&theme=github"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhilshan-codebox&theme=github&utcOffset=5.5"/>
 </p>
 
 ---
