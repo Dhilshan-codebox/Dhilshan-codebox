@@ -23,7 +23,6 @@
   <tr>
     <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Unreal-313131?style=flat&logo=unrealengine&logoColor=white"/></td> 
   </tr>
   <tr>
