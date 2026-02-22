@@ -1,15 +1,43 @@
-<h1 align="center">
-  Hi, I'm Dhilshan S D
-</h1>
+<!-- ======================= PREMIUM ACADEMIC HEADER ======================= -->
+
+<h1 align="center">Dhilshan S D</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Software+Developer+%7C+Backend+Developer;Algorithmic+Thinking+%26+Optimization;Research-Oriented+Problem+Solver" />
+  <b>Computer Science Undergraduate</b>  
 </p>
 
 <p align="center">
-  🔬 Focused on applied machine learning, data systems, and structured problem solving  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&width=650&lines=Machine+Learning+%7C+Statistical+Modeling;Algorithmic+Thinking+%7C+Optimization;Data+Analysis+%7C+Model+Evaluation;Research-Oriented+Problem+Solver" />
 </p>
----
+
+<p align="center">
+  Focused on applied machine learning, empirical analysis, and building systems grounded in mathematical rigor.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dhilshan-codebox">
+    <img src="https://img.shields.io/github/followers/Dhilshan-codebox?style=social" />
+  </a>
+  <a href="https://github.com/Dhilshan-codebox">
+    <img src="https://img.shields.io/github/stars/Dhilshan-codebox?affiliations=OWNER&style=social" />
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhilshan-sd110905">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/dhilshanworkspa1">
+    <img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:dhilshanworkspace@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<!-- ======================= END HEADER ======================= -->
 
 ## 💡 Skills & 🔨 Tools <img src="./gif/catcode.gif" width="60">  
 
