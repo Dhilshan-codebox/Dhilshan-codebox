@@ -36,11 +36,6 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<!-- Animated Gradient Divider -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F4E79,50:2F80ED,100:56CCF2&height=3&section=header&animation=fadeIn&width=100%"/>
-</p>
-
 <!-- ======================= END HEADER ======================= -->
 
 ## 💡 Skills & 🔨 Tools <img src="./gif/catcode.gif" width="60">  
