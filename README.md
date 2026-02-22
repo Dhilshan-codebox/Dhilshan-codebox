@@ -108,13 +108,48 @@
 </table>
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhilshan-codebox&show_icons=true&theme=transparent)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dhilshan-codebox&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilshan-codebox&layout=compact&theme=transparent)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhilshan-codebox&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhilshan-codebox&theme=dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilshan-codebox&layout=compact&theme=transparent&hide_border=true" height="160"/>
+</p>
 
 ---
+
+## 📈 Contribution Activity  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhilshan-codebox&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Dhilshan-codebox&theme=flat&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 📌 Profile Summary  
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dhilshan-codebox&theme=github"/>
+</p>
+
+---
+
+## 👀 Profile Views  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dhilshan-codebox&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ## 🚀 Featured Projects  
 
