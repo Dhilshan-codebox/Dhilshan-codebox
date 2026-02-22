@@ -1,220 +1,78 @@
-<!-- ======================= PREMIUM ACADEMIC HEADER ======================= -->
-<!-- ======================= PREMIUM ENGINEERING HEADER ======================= -->
-
 <h1 align="center">Dhilshan S D</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate | Software & Backend Developer</b>
+  <b>Computer Science Undergraduate | Backend & Machine Learning Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&width=750&lines=Software+Developer;Backend+System+Design+%7C+API+Development;Machine+Learning+Model+Development;Data-Driven+System+Optimization;Algorithmic+Problem+Solver" />
+  Focused on scalable backend systems, algorithmic problem solving, and applied machine learning.
 </p>
 
 <p align="center">
-  Building scalable backend systems, structured APIs, and machine learning models grounded in strong computer science fundamentals.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dhilshan-codebox">
-    <img src="https://img.shields.io/github/followers/Dhilshan-codebox?style=social" />
-  </a>
-  <a href="https://github.com/Dhilshan-codebox">
-    <img src="https://img.shields.io/github/stars/Dhilshan-codebox?affiliations=OWNER&style=social" />
-  </a>
-</p>
-
-<hr>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhilshan-sd110905">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/dhilshanworkspa1">
-    <img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-2EC866?style=flat&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="mailto:dhilshanworkspace@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<!-- ======================= END HEADER ======================= -->
-<!-- ======================= END HEADER ======================= -->
-
-## 💡 Skills & 🔨 Tools <img src="./gif/catcode.gif" width="60">  
-
-<table>
-  <tr>
-    <td><b>📐 Mathematical Foundations</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Linear%20Algebra-2F4F4F?style=flat"/>
-      <img src="https://img.shields.io/badge/Probability-556B2F?style=flat"/>
-      <img src="https://img.shields.io/badge/Statistics-2E8B57?style=flat"/>
-      <img src="https://img.shields.io/badge/Optimization-6A5ACD?style=flat"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🧠 Algorithmic Foundations</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Data%20Structures-003366?style=flat"/>
-      <img src="https://img.shields.io/badge/Algorithms-4B0082?style=flat"/>
-      <img src="https://img.shields.io/badge/Complexity%20Analysis-483D8B?style=flat"/>
-      <img src="https://img.shields.io/badge/Algorithmic%20Thinking-191970?style=flat"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>📊 Data Science & Empirical Analysis</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-006400?style=flat"/>
-      <img src="https://img.shields.io/badge/Feature%20Engineering-4682B4?style=flat"/>
-      <img src="https://img.shields.io/badge/Statistical%20Modeling-3CB371?style=flat"/>
-      <img src="https://img.shields.io/badge/Data%20Visualization-20B2AA?style=flat"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🤖 Machine Learning</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Supervised%20Learning-FF8C00?style=flat"/>
-      <img src="https://img.shields.io/badge/Neural%20Networks-DC143C?style=flat"/>
-      <img src="https://img.shields.io/badge/XGBoost-B22222?style=flat"/>
-      <img src="https://img.shields.io/badge/Model%20Evaluation-708090?style=flat"/>
-      <img src="https://img.shields.io/badge/Bias--Variance%20Tradeoff-556B2F?style=flat"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>💻 Programming & Systems</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>🧪 Research Workflow</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Experimental%20Design-2F4F4F?style=flat"/>
-      <img src="https://img.shields.io/badge/Hypothesis%20Testing-556B2F?style=flat"/>
-      <img src="https://img.shields.io/badge/Performance%20Benchmarking-8B4513?style=flat"/>
-      <img src="https://img.shields.io/badge/Result%20Interpretation-696969?style=flat"/>
-    </td>
-  </tr>
-</table>
----
-
-### 📊 GitHub Analytics & Engineering Metrics
-
-<!-- ===================================================== -->
-<!-- Core GitHub Stats -->
-<!-- ===================================================== -->
-
-## 📈 Development Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhilshan-codebox&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhilshan-codebox&theme=dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilshan-codebox&layout=compact&theme=transparent&hide_border=true" height="160"/>
+  <a href="https://www.linkedin.com/in/dhilshan-sd110905">LinkedIn</a> •
+  <a href="https://github.com/Dhilshan-codebox">GitHub</a> •
+  <a href="https://www.hackerrank.com/profile/dhilshanworkspa1">HackerRank</a>
 </p>
 
 ---
 
-<!-- ===================================================== -->
-<!-- Contribution Activity -->
-<!-- ===================================================== -->
+## 🧠 Core Competencies
 
-## 🐍 Contribution Activity
+**Programming:** Python, Java, SQL  
+**Backend Development:** Spring Boot, REST APIs, Database Design  
+**Machine Learning:** Supervised Learning, Neural Networks, XGBoost, Model Evaluation  
+**Foundations:** Data Structures & Algorithms, Complexity Analysis, Probability & Statistics  
+**Systems:** Linux, Docker  
+
+---
+
+## 🚀 Selected Projects
+
+### 🏦 Wallet Transaction System (Spring Boot)
+🔗 https://github.com/Dhilshan-codebox/Wallet_Process  
+
+- Designed RESTful APIs for wallet operations  
+- Implemented transaction handling & validation logic  
+- Integrated relational database with structured schema  
+- Focused on backend architecture and data consistency  
+
+---
+
+### 🤖 AI Health Predictor
+🔗 https://github.com/Dhilshan-codebox/ai-healthchatbot  
+
+- Built supervised ML pipeline for health risk prediction  
+- Applied feature engineering and model comparison  
+- Evaluated models using precision, recall, F1-score  
+- Developed Streamlit interface for inference & visualization  
+
+---
+
+### ☁️ Cloud Cost Dashboard
+🔗 https://github.com/Dhilshan-codebox/cloud-dashboard  
+
+- Analyzed multi-cloud cost datasets  
+- Built dashboard for cost monitoring and optimization  
+- Explored usage distribution and performance trade-offs  
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dhilshan-codebox/Dhilshan-codebox/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhilshan-codebox&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhilshan-codebox&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhilshan-codebox&layout=compact&hide_border=true"/>
 </p>
 
 ---
 
-## 📅 Contribution Calendar
+## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/2F80ED/Dhilshan-codebox" />
-</p>
-
----
-
-<!-- ===================================================== -->
-<!-- Featured Projects -->
-<!-- ===================================================== -->
-
-## 📦 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Dhilshan-codebox/health-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhilshan-codebox&repo=health-ai&theme=transparent&hide_border=true" />
-  </a>
-  <a href="https://github.com/Dhilshan-codebox/cloud-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhilshan-codebox&repo=cloud-dashboard&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Dhilshan-codebox/my-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhilshan-codebox&repo=my-game&theme=transparent&hide_border=true" />
-  </a>
-</p>
-
----
-
-<!-- ===================================================== -->
-<!-- Backend Engineering Metrics -->
-<!-- ===================================================== -->
-
-## 🖥 Backend Engineering Profile
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhilshan-codebox&theme=github"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dhilshan-codebox&theme=github"/>
-</p>
-
----
-
-<!-- ===================================================== -->
-<!-- Machine Learning Focus -->
-<!-- ===================================================== -->
-
-## 🤖 Machine Learning Development Focus
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhilshan-codebox&theme=github&utcOffset=5.5"/>
-</p>
-
----
-
-<!-- ===================================================== -->
-<!-- Profile Views -->
-<!-- ===================================================== -->
-
-## 👀 Profile Visibility
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhilshan-codebox&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-## 🚀 Featured Projects  
-
-- 🎮 [Wallet_Transcation](https://github.com/Dhilshan-codebox/Wallet_Process.git) – Built in **SpringBoot**  
-- ⚡ [AI Health Predictor](https://github.com/Dhilshan-codebox/ai-healthchatbot.git) – **Streamlit + ML + Python**  
-- 📦 [Cloud Cost Dashboard](https://github.com/Dhilshan-codebox/cloud-dashboard) – **Multi-Cloud Optimization**  
-
----
-
-🤗 Always up for collaboration and learning something new.  
-🎓 Let's build something awesome and new together!  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Dhilshan-codebox&color=blue&style=flat)  
-
-> *"Code. Create. Conquer. 🚀"*  
+- Backend system design  
+- API architecture  
+- Model optimization  
+- Strengthening DSA & system fundamentals  
