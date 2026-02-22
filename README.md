@@ -1,17 +1,18 @@
 <!-- ======================= PREMIUM ACADEMIC HEADER ======================= -->
+<!-- ======================= PREMIUM ENGINEERING HEADER ======================= -->
 
 <h1 align="center">Dhilshan S D</h1>
 
 <p align="center">
-  <b>Computer Science Undergraduate</b>  
+  <b>Computer Science Undergraduate | Software & Backend Developer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&width=650&lines=Software+Developer+%7C+Backend Developer+Statistical+Modeling;Algorithmic+Thinking+%7C+Optimization;ML+Models+%7C+Model+Evaluation;Research-Oriented+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=3500&pause=900&color=1F4E79&center=true&vCenter=true&width=750&lines=Software+Developer;Backend+System+Design+%7C+API+Development;Machine+Learning+Model+Development;Data-Driven+System+Optimization;Algorithmic+Problem+Solver" />
 </p>
 
 <p align="center">
-  Focused on applied machine learning, empirical analysis, and building systems grounded in mathematical rigor.
+  Building scalable backend systems, structured APIs, and machine learning models grounded in strong computer science fundamentals.
 </p>
 
 <p align="center">
@@ -36,6 +37,8 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+<!-- ======================= END HEADER ======================= -->
 <!-- ======================= END HEADER ======================= -->
 
 ## 💡 Skills & 🔨 Tools <img src="./gif/catcode.gif" width="60">  
