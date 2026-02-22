@@ -1,8 +1,14 @@
-# <img src="./gif/hi.gif" width="29" style="vertical-align: middle; margin-right: 6px;"> Hi, I'm Dhilshan  
-💻 Student Developer  
-🌱 Learning new tech every day and building cool stuff along the way  
-🌍 Passionate about coding, games, and creative projects!  
+<h1 align="center">
+  Hi, I'm Dhilshan S D
+</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=800&color=2F80ED&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Machine+Learning+%7C+Data+Science;Algorithmic+Thinking+%26+Optimization;Research-Oriented+Problem+Solver" />
+</p>
+
+<p align="center">
+  🔬 Focused on applied machine learning, data systems, and structured problem solving  
+</p>
 ---
 
 ## 💡 Skills & 🔨 Tools <img src="./gif/catcode.gif" width="60">  
