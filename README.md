@@ -108,10 +108,16 @@
 </table>
 ---
 
-## 📊 GitHub Analytics  
+### 📊 GitHub Analytics & Engineering Metrics
+
+<!-- ===================================================== -->
+<!-- Core GitHub Stats -->
+<!-- ===================================================== -->
+
+## 📈 Development Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhilshan-codebox&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dhilshan-codebox&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Dhilshan-codebox&theme=dark&hide_border=true" height="170"/>
 </p>
 
@@ -121,15 +127,54 @@
 
 ---
 
-## 📈 Contribution Activity  
+<!-- ===================================================== -->
+<!-- Contribution Activity -->
+<!-- ===================================================== -->
+
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dhilshan-codebox&theme=github-compact&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/Dhilshan-codebox/Dhilshan-codebox/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🧠 Coding Metrics  
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/2F80ED/Dhilshan-codebox" />
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!-- Featured Projects -->
+<!-- ===================================================== -->
+
+## 📦 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Dhilshan-codebox/health-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhilshan-codebox&repo=health-ai&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/Dhilshan-codebox/cloud-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhilshan-codebox&repo=cloud-dashboard&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Dhilshan-codebox/my-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Dhilshan-codebox&repo=my-game&theme=transparent&hide_border=true" />
+  </a>
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!-- Backend Engineering Metrics -->
+<!-- ===================================================== -->
+
+## 🖥 Backend Engineering Profile
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dhilshan-codebox&theme=github"/>
@@ -138,7 +183,11 @@
 
 ---
 
-## 📌 Development Overview  
+<!-- ===================================================== -->
+<!-- Machine Learning Focus -->
+<!-- ===================================================== -->
+
+## 🤖 Machine Learning Development Focus
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dhilshan-codebox&theme=github&utcOffset=5.5"/>
@@ -146,16 +195,19 @@
 
 ---
 
-## 👀 Profile Views  
+<!-- ===================================================== -->
+<!-- Profile Views -->
+<!-- ===================================================== -->
+
+## 👀 Profile Visibility
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Dhilshan-codebox&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
-
 ## 🚀 Featured Projects  
 
-- 🎮 [My Game Project](https://github.com/dhilshan/my-game) – Built in **Godot**  
-- ⚡ [AI Health Predictor](https://github.com/Dhilshan-codebox/health-ai) – **Streamlit + ML**  
+- 🎮 [Wallet_Transcation](https://github.com/Dhilshan-codebox/Wallet_Process.git) – Built in **SpringBoot**  
+- ⚡ [AI Health Predictor](https://github.com/Dhilshan-codebox/ai-healthchatbot.git) – **Streamlit + ML + Python**  
 - 📦 [Cloud Cost Dashboard](https://github.com/Dhilshan-codebox/cloud-dashboard) – **Multi-Cloud Optimization**  
 
 ---
